@@ -3,3 +3,6 @@
     border-bottom: 5px solid #4502ff;
     
 }
+.nav-user .nav-link.active{
+    background-color: rgb(94, 93, 93);
+}
